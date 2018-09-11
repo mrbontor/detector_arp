@@ -1,0 +1,16 @@
+body {
+	font-family: 'Oswald', sans-serif;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background-color: #cc1100;
+	color: #fffdfc;
+}
+
+.truthy {
+	background-color: #22d080;
+}
+
+h1{
+	font-size: 10em;
+}

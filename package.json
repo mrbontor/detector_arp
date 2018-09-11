@@ -1,0 +1,20 @@
+{
+  "author": "mrbontor",
+  "name": "detector_arp",
+  "description": "Arp table watcher",
+  "version": "1.0.0",
+  "repository": {
+    "url": ""
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.13.3",
+    "nest-api": "0.0.5",
+    "pcap": "git+https://github.com/mranney/node_pcap.git"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
